@@ -2,6 +2,6 @@
 <h3 align="center">🚀 Hobby Developer 🚀</h3>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KomischerBoy&theme=radical"></img>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KomischerBoy&theme=radical"></img></p>
 
 ----
